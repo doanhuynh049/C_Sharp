@@ -1,0 +1,14 @@
+C:\Users\qdoanhuynh\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\qdoanhuynh\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\qdoanhuynh\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\qdoanhuynh\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\qdoanhuynh\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\qdoanhuynh\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\qdoanhuynh\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\Project\LearnC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Project\LearnC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Project\LearnC#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Project\LearnC#\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Project\LearnC#\ConsoleApp1\ConsoleApp1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Project\LearnC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Project\LearnC#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
